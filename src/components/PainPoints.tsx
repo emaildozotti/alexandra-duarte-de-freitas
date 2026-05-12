@@ -7,7 +7,7 @@ const COPY = {
   heading: 'Se você se reconhece em pelo menos uma dessas frases,',
   headingEm: 'esse espaço foi feito pra você.',
   pains: [
-    'Você se sente sozinha mesmo rodeada de gente. Sorri por fora, mas por dentro carrega um vazio que ninguém parece perceber.',
+    'Você se sente sozinha(o) mesmo rodeada(o) de gente. Sorri por fora, mas por dentro carrega um vazio que ninguém parece perceber.',
     'Todo relacionamento termina do mesmo jeito. E você já nem sabe se o problema é seu ou se nasceu com esse "dedo podre" pra escolher errado.',
     'Já tentou terapia, já tentou remédio, já tentou esquecer. Mas a dor continua lá, igualzinha. Como se nada tivesse mudado.',
     'Todo mundo fala que você é forte. Mas por dentro está desabando. E você tem vergonha de admitir isso pra qualquer pessoa.',

@@ -8,7 +8,7 @@ import { SITE } from '../site.config'
 const COPY = {
   callout: 'PSICOLOGIA CLÍNICA',
   h1: 'Sua dor não é frescura. E você não precisa',
-  h1Em: 'aguentar calada.',
+  h1Em: 'aguentar calada(o).',
   subtitle: 'Sessões de tempo estendido para quem precisa ser ouvida de verdade.',
   ctaPrimary: 'Quero Agendar Minha Sessão',
   ctaSecondary: 'entenda como funciona',

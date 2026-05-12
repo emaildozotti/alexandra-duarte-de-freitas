@@ -9,8 +9,8 @@ const COPY = {
   heading: 'Como funciona o seu caminho aqui',
   steps: [
     {
-      title: 'Sessão experimental',
-      body: 'Você agenda uma conversa inicial gratuita pelo WhatsApp. Eu te escuto, entendo o que você está vivendo e explico como o processo funciona. Sem compromisso, sem pressão.',
+      title: 'Escuta inicial e direcionamento',
+      body: 'Você agenda uma conversa preliminar, gratuita pelo WhatsApp. Eu te escuto, entendo o que você está vivendo e explico como o processo funciona. Sem compromisso, sem pressão.',
     },
     {
       title: 'Processo terapêutico',
